@@ -1,4 +1,6 @@
-# Our top tutorials
+# Best programming courses and tutorials
+[Hackr.io](https://hackr.io) is a programming community to find the best online programming courses and tutorials. Find tutorials of more than 150 programming languages, frameworks and libraries. You can also share your own tutorials.
+Below is a category wise list. 
 #### Python
 * Learn Python the Hard Way [View Here](http://localhost:8000/tutorial/learn-python-the-hard-way)
 * Complete Python Bootcamp [View Here](http://localhost:8000/tutorial/complete-python-bootcamp)
